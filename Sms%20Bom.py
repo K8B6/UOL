@@ -91,10 +91,10 @@ if 'Kabbo'==user and 'Kabbo '==pas:
         Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL  ")
 
 else:
-        Axak(y+"\n\n\t\t      Invalid User Or Pass")
+        Axak(y+"\n\n\t\t      correct User Or Pass")
         Axak(y+"\n\n\t\tContract Admin For User And Pass")
         time.sleep(3)
-        os.system('xdg-open https://www.facebook.com/R1F4T.OFFICIAL.ACCOUNT')
+        os.system('xdg-open https://https://www.facebook.com/moon.chakraborty.315865')
         os.system("python R1F4T.py")
 #
 
